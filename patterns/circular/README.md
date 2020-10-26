@@ -2,10 +2,10 @@
 
 Import these into sandify to adapt them to rectangular machines.
 
-## Staycation
+## staycation.thr
 
 https://youtu.be/G0sX039igS4
 
-## Tasting Flight
+## tasting_flight.thr
 
 https://youtu.be/TOz1uttQcT0
