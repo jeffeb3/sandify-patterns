@@ -1,0 +1,378 @@
+{
+	"version": "1.0.0",
+	"effects": {
+		"ids": [
+			"ca6658a5-a300-4448-8147-0afc2211f973",
+			"2f9092cc-3d43-4e06-92f7-e931e1e8182c",
+			"f6d0bbd7-52ba-4159-bc8a-bd507050a5aa",
+			"8b458db5-5f62-4e93-b782-b22a1cbe6c2b",
+			"6c18aaca-859c-4f8e-b1dc-a6646be83925",
+			"ad7b0afe-f980-4dc0-a112-d0a4196f650a",
+			"fedf090e-7b32-4534-bd87-b90b7f0d8207",
+			"b4279332-cc59-49f6-be62-bb6409976cd1",
+			"9a8f42ff-0990-4f9c-bff4-d1ad700441a1",
+			"2ae714aa-e7a3-42a5-8b56-40950902099b",
+			"662b375d-5399-49a4-af0f-aab664ea8c10",
+			"f147ae57-ab88-4626-9898-3fece147d673",
+			"0e6b1025-fd6a-4b11-a0b6-394c2c577546"
+		],
+		"entities": {
+			"ca6658a5-a300-4448-8147-0afc2211f973": {
+				"transformMethod": "intact",
+				"numLoops": 19,
+				"growEnabled": true,
+				"growValue": 3,
+				"growMethod": "constant",
+				"growMathInput": "i+cos(i/2)",
+				"growMath": "i+cos(i/2)",
+				"spinEnabled": false,
+				"spinValue": 2,
+				"spinMethod": "constant",
+				"spinMathInput": "10*sin(i/4)",
+				"spinMath": "10*sin(i/4)",
+				"spinSwitchbacks": 0,
+				"type": "loop",
+				"visible": true,
+				"name": "loop",
+				"layerId": "9b967dac-6405-4e20-a91b-b55156ae5671",
+				"id": "ca6658a5-a300-4448-8147-0afc2211f973"
+			},
+			"2f9092cc-3d43-4e06-92f7-e931e1e8182c": {
+				"drawPortionPct": 100,
+				"backtrackPct": 0.2,
+				"rotateStartingPct": 0,
+				"reverse": false,
+				"drawBorder": false,
+				"type": "fineTuning",
+				"visible": true,
+				"name": "fine tuning",
+				"layerId": "9b967dac-6405-4e20-a91b-b55156ae5671",
+				"id": "2f9092cc-3d43-4e06-92f7-e931e1e8182c"
+			},
+			"f6d0bbd7-52ba-4159-bc8a-bd507050a5aa": {
+				"transformMethod": "intact",
+				"numLoops": 10,
+				"growEnabled": true,
+				"growValue": 25,
+				"growMethod": "constant",
+				"growMathInput": "i+cos(i/2)",
+				"growMath": "i+cos(i/2)",
+				"spinEnabled": false,
+				"spinValue": 2,
+				"spinMethod": "constant",
+				"spinMathInput": "10*sin(i/4)",
+				"spinMath": "10*sin(i/4)",
+				"spinSwitchbacks": 0,
+				"type": "loop",
+				"visible": true,
+				"name": "loop",
+				"layerId": "60444095-8466-4432-95c2-a6b5fbc190b3",
+				"id": "f6d0bbd7-52ba-4159-bc8a-bd507050a5aa"
+			},
+			"8b458db5-5f62-4e93-b782-b22a1cbe6c2b": {
+				"drawPortionPct": 100,
+				"backtrackPct": 0,
+				"rotateStartingPct": 0.4,
+				"reverse": true,
+				"drawBorder": false,
+				"type": "fineTuning",
+				"visible": true,
+				"name": "fine tuning",
+				"layerId": "60444095-8466-4432-95c2-a6b5fbc190b3",
+				"id": "8b458db5-5f62-4e93-b782-b22a1cbe6c2b"
+			},
+			"6c18aaca-859c-4f8e-b1dc-a6646be83925": {
+				"transformMethod": "smear",
+				"numLoops": 16,
+				"growEnabled": true,
+				"growValue": 8,
+				"growMethod": "constant",
+				"growMathInput": "i+cos(i/2)",
+				"growMath": "i+cos(i/2)",
+				"spinEnabled": false,
+				"spinValue": 2,
+				"spinMethod": "constant",
+				"spinMathInput": "10*sin(i/4)",
+				"spinMath": "10*sin(i/4)",
+				"spinSwitchbacks": 0,
+				"type": "loop",
+				"visible": true,
+				"name": "loop",
+				"layerId": "097fc052-353e-490a-9f33-0fb9c7b98d6c",
+				"id": "6c18aaca-859c-4f8e-b1dc-a6646be83925"
+			},
+			"ad7b0afe-f980-4dc0-a112-d0a4196f650a": {
+				"drawPortionPct": 100,
+				"backtrackPct": 0.22,
+				"rotateStartingPct": 0,
+				"reverse": false,
+				"drawBorder": false,
+				"type": "fineTuning",
+				"visible": true,
+				"name": "fine tuning",
+				"layerId": "097fc052-353e-490a-9f33-0fb9c7b98d6c",
+				"id": "ad7b0afe-f980-4dc0-a112-d0a4196f650a"
+			},
+			"fedf090e-7b32-4534-bd87-b90b7f0d8207": {
+				"transformMethod": "intact",
+				"numLoops": 3,
+				"growEnabled": true,
+				"growValue": 80,
+				"growMethod": "constant",
+				"growMathInput": "i+cos(i/2)",
+				"growMath": "i+cos(i/2)",
+				"spinEnabled": false,
+				"spinValue": 2,
+				"spinMethod": "constant",
+				"spinMathInput": "10*sin(i/4)",
+				"spinMath": "10*sin(i/4)",
+				"spinSwitchbacks": 0,
+				"type": "loop",
+				"visible": true,
+				"name": "loop",
+				"layerId": "d1df0e62-61f9-45e1-8b50-c93b3f6ab149",
+				"id": "fedf090e-7b32-4534-bd87-b90b7f0d8207"
+			},
+			"b4279332-cc59-49f6-be62-bb6409976cd1": {
+				"drawPortionPct": 100,
+				"backtrackPct": 4.8,
+				"rotateStartingPct": 46.4,
+				"reverse": true,
+				"drawBorder": false,
+				"type": "fineTuning",
+				"visible": true,
+				"name": "fine tuning",
+				"layerId": "d1df0e62-61f9-45e1-8b50-c93b3f6ab149",
+				"id": "b4279332-cc59-49f6-be62-bb6409976cd1"
+			},
+			"9a8f42ff-0990-4f9c-bff4-d1ad700441a1": {
+				"transformMethod": "intact",
+				"numLoops": 4,
+				"growEnabled": true,
+				"growValue": 25,
+				"growMethod": "constant",
+				"growMathInput": "i+cos(i/2)",
+				"growMath": "i+cos(i/2)",
+				"spinEnabled": false,
+				"spinValue": 2,
+				"spinMethod": "constant",
+				"spinMathInput": "10*sin(i/4)",
+				"spinMath": "10*sin(i/4)",
+				"spinSwitchbacks": 0,
+				"type": "loop",
+				"visible": true,
+				"name": "loop",
+				"layerId": "82ec336c-c31f-4ef0-bbd8-0d2d263229bd",
+				"id": "9a8f42ff-0990-4f9c-bff4-d1ad700441a1"
+			},
+			"2ae714aa-e7a3-42a5-8b56-40950902099b": {
+				"drawPortionPct": 100,
+				"backtrackPct": 5.2,
+				"rotateStartingPct": 0,
+				"reverse": false,
+				"drawBorder": false,
+				"type": "fineTuning",
+				"visible": true,
+				"name": "fine tuning",
+				"layerId": "82ec336c-c31f-4ef0-bbd8-0d2d263229bd",
+				"id": "2ae714aa-e7a3-42a5-8b56-40950902099b"
+			},
+			"662b375d-5399-49a4-af0f-aab664ea8c10": {
+				"drawPortionPct": 5.8,
+				"backtrackPct": 0,
+				"rotateStartingPct": 60.2,
+				"reverse": true,
+				"drawBorder": false,
+				"type": "fineTuning",
+				"visible": true,
+				"name": "fine tuning",
+				"layerId": "e2a722b1-e633-4501-8441-253b5f1a2d61",
+				"id": "662b375d-5399-49a4-af0f-aab664ea8c10"
+			},
+			"f147ae57-ab88-4626-9898-3fece147d673": {
+				"drawPortionPct": 1.4,
+				"backtrackPct": 0,
+				"rotateStartingPct": 52.6,
+				"reverse": true,
+				"drawBorder": false,
+				"type": "fineTuning",
+				"visible": true,
+				"name": "fine tuning",
+				"layerId": "03b3456f-8257-4897-bf32-6a2d3823bc4d",
+				"id": "f147ae57-ab88-4626-9898-3fece147d673"
+			},
+			"0e6b1025-fd6a-4b11-a0b6-394c2c577546": {
+				"drawPortionPct": 14,
+				"backtrackPct": 0,
+				"rotateStartingPct": 18,
+				"reverse": true,
+				"drawBorder": false,
+				"type": "fineTuning",
+				"visible": true,
+				"name": "fine tuning",
+				"layerId": "61e9debb-0d43-45e8-895d-f77651019b74",
+				"id": "0e6b1025-fd6a-4b11-a0b6-394c2c577546"
+			}
+		}
+	},
+	"layers": {
+		"ids": [
+			"82ec336c-c31f-4ef0-bbd8-0d2d263229bd",
+			"e2a722b1-e633-4501-8441-253b5f1a2d61",
+			"097fc052-353e-490a-9f33-0fb9c7b98d6c",
+			"03b3456f-8257-4897-bf32-6a2d3823bc4d",
+			"9b967dac-6405-4e20-a91b-b55156ae5671",
+			"60444095-8466-4432-95c2-a6b5fbc190b3",
+			"d1df0e62-61f9-45e1-8b50-c93b3f6ab149",
+			"61e9debb-0d43-45e8-895d-f77651019b74"
+		],
+		"entities": {
+			"82ec336c-c31f-4ef0-bbd8-0d2d263229bd": {
+				"type": "heart",
+				"connectionMethod": "line",
+				"x": 0,
+				"y": -5,
+				"width": 38,
+				"height": 35,
+				"aspectRatio": 1.1111111111111112,
+				"rotation": 0,
+				"visible": true,
+				"name": "Heart",
+				"effectIds": [
+					"9a8f42ff-0990-4f9c-bff4-d1ad700441a1",
+					"2ae714aa-e7a3-42a5-8b56-40950902099b"
+				],
+				"id": "82ec336c-c31f-4ef0-bbd8-0d2d263229bd"
+			},
+			"e2a722b1-e633-4501-8441-253b5f1a2d61": {
+				"type": "heart",
+				"connectionMethod": "line",
+				"x": 0,
+				"y": -4,
+				"width": 134,
+				"height": 119,
+				"aspectRatio": 1.1296296296296295,
+				"rotation": -180,
+				"visible": true,
+				"name": "connector",
+				"effectIds": [
+					"662b375d-5399-49a4-af0f-aab664ea8c10"
+				],
+				"id": "e2a722b1-e633-4501-8441-253b5f1a2d61"
+			},
+			"097fc052-353e-490a-9f33-0fb9c7b98d6c": {
+				"type": "heart",
+				"connectionMethod": "line",
+				"x": 0,
+				"y": -5,
+				"width": 151,
+				"height": 135,
+				"aspectRatio": 1.095890410958904,
+				"rotation": 0,
+				"visible": true,
+				"name": "Heart 2",
+				"effectIds": [
+					"6c18aaca-859c-4f8e-b1dc-a6646be83925",
+					"ad7b0afe-f980-4dc0-a112-d0a4196f650a"
+				],
+				"id": "097fc052-353e-490a-9f33-0fb9c7b98d6c"
+			},
+			"03b3456f-8257-4897-bf32-6a2d3823bc4d": {
+				"type": "heart",
+				"connectionMethod": "line",
+				"x": 0,
+				"y": -5,
+				"width": 301,
+				"height": 266,
+				"aspectRatio": 1.1296296296296295,
+				"rotation": -180,
+				"visible": true,
+				"name": "connector",
+				"effectIds": [
+					"f147ae57-ab88-4626-9898-3fece147d673"
+				],
+				"id": "03b3456f-8257-4897-bf32-6a2d3823bc4d"
+			},
+			"9b967dac-6405-4e20-a91b-b55156ae5671": {
+				"type": "heart",
+				"connectionMethod": "along perimeter",
+				"x": 0,
+				"y": -5,
+				"width": 605,
+				"height": 537,
+				"aspectRatio": 1.1226765799256506,
+				"rotation": 0,
+				"visible": true,
+				"name": "Heart 3",
+				"effectIds": [
+					"ca6658a5-a300-4448-8147-0afc2211f973",
+					"2f9092cc-3d43-4e06-92f7-e931e1e8182c"
+				],
+				"id": "9b967dac-6405-4e20-a91b-b55156ae5671"
+			},
+			"60444095-8466-4432-95c2-a6b5fbc190b3": {
+				"type": "heart",
+				"connectionMethod": "line",
+				"x": 0,
+				"y": -5,
+				"width": 302,
+				"height": 269,
+				"aspectRatio": 1.1185185185185185,
+				"rotation": 180,
+				"visible": true,
+				"name": "Heart 4",
+				"effectIds": [
+					"f6d0bbd7-52ba-4159-bc8a-bd507050a5aa",
+					"8b458db5-5f62-4e93-b782-b22a1cbe6c2b"
+				],
+				"id": "60444095-8466-4432-95c2-a6b5fbc190b3"
+			},
+			"d1df0e62-61f9-45e1-8b50-c93b3f6ab149": {
+				"type": "heart",
+				"connectionMethod": "line",
+				"x": 0,
+				"y": -5,
+				"width": 75,
+				"height": 68,
+				"aspectRatio": 1.1111111111111112,
+				"rotation": 180,
+				"visible": true,
+				"name": "Heart 5",
+				"effectIds": [
+					"fedf090e-7b32-4534-bd87-b90b7f0d8207",
+					"b4279332-cc59-49f6-be62-bb6409976cd1"
+				],
+				"id": "d1df0e62-61f9-45e1-8b50-c93b3f6ab149"
+			},
+			"61e9debb-0d43-45e8-895d-f77651019b74": {
+				"type": "heart",
+				"connectionMethod": "line",
+				"x": 0,
+				"y": -5,
+				"width": 39,
+				"height": 35,
+				"aspectRatio": 1.1066666666666667,
+				"rotation": 0,
+				"visible": true,
+				"name": "connector",
+				"effectIds": [
+					"0e6b1025-fd6a-4b11-a0b6-394c2c577546"
+				],
+				"id": "61e9debb-0d43-45e8-895d-f77651019b74"
+			}
+		}
+	},
+	"machine": {
+		"name": "[imported]",
+		"minimizeMoves": true,
+		"imported": true,
+		"type": "polar",
+		"minX": 0,
+		"maxX": 500,
+		"minY": 0,
+		"maxY": 500,
+		"maxRadius": 250,
+		"polarStartPoint": "center",
+		"polarEndPoint": "center"
+	}
+}
