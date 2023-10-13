@@ -1,0 +1,323 @@
+{
+	"version": "1.0.0",
+	"effects": {
+		"ids": [
+			"51e69c46-6645-4ac5-b73c-034c705077b1",
+			"fc791cce-4dbf-45ba-89a6-8740426421d5",
+			"e1315051-f23e-4f16-a325-e51494474921",
+			"ade43ddf-1be5-47db-be9d-1e533272a151",
+			"bc82517a-7fa2-47bb-a02a-cef46ef2b441",
+			"eb1f9595-cb00-4a30-b9ee-b46a81b7e608",
+			"3142f55e-9d2a-4a15-bf8c-b3f2a48112ef",
+			"1b78fa3d-2812-486e-ba24-7966f23f4dca",
+			"7b1d98fa-05f3-4ed1-95b2-c47a52f34434",
+			"1e99eb45-06fa-46bb-9340-38cda676fff0"
+		],
+		"entities": {
+			"51e69c46-6645-4ac5-b73c-034c705077b1": {
+				"width": 218,
+				"height": 218,
+				"maskMinimizeMoves": false,
+				"maskMachine": "circle",
+				"maskInvert": true,
+				"maskBorder": true,
+				"type": "mask",
+				"visible": true,
+				"name": "mask",
+				"aspectRatio": 1,
+				"x": 0,
+				"y": 0,
+				"rotation": 0,
+				"layerId": "9fcd68e0-8946-431c-9dd6-2c21ed81bdc1",
+				"id": "51e69c46-6645-4ac5-b73c-034c705077b1"
+			},
+			"fc791cce-4dbf-45ba-89a6-8740426421d5": {
+				"drawPortionPct": 100,
+				"backtrackPct": 17.36,
+				"rotateStartingPct": 0,
+				"reverse": false,
+				"drawBorder": true,
+				"type": "fineTuning",
+				"visible": true,
+				"name": "fine tuning",
+				"layerId": "9d4dfca4-b726-4471-8858-81da20be6db1",
+				"id": "fc791cce-4dbf-45ba-89a6-8740426421d5"
+			},
+			"e1315051-f23e-4f16-a325-e51494474921": {
+				"drawPortionPct": 100,
+				"backtrackPct": 0,
+				"rotateStartingPct": 24.4,
+				"reverse": false,
+				"drawBorder": false,
+				"type": "fineTuning",
+				"visible": true,
+				"name": "fine tuning",
+				"layerId": "5b031e09-2f76-4e13-a9ea-70ab69e284d5",
+				"id": "e1315051-f23e-4f16-a325-e51494474921"
+			},
+			"ade43ddf-1be5-47db-be9d-1e533272a151": {
+				"drawPortionPct": 100,
+				"backtrackPct": 8.93,
+				"rotateStartingPct": 0,
+				"reverse": false,
+				"drawBorder": false,
+				"type": "fineTuning",
+				"visible": true,
+				"name": "fine tuning",
+				"layerId": "9fcd68e0-8946-431c-9dd6-2c21ed81bdc1",
+				"id": "ade43ddf-1be5-47db-be9d-1e533272a151"
+			},
+			"bc82517a-7fa2-47bb-a02a-cef46ef2b441": {
+				"drawPortionPct": 100,
+				"backtrackPct": 0,
+				"rotateStartingPct": 25.4,
+				"reverse": false,
+				"drawBorder": false,
+				"type": "fineTuning",
+				"visible": true,
+				"name": "fine tuning",
+				"layerId": "e607a0a4-1be5-48b3-b007-425f646b160f",
+				"id": "bc82517a-7fa2-47bb-a02a-cef46ef2b441"
+			},
+			"eb1f9595-cb00-4a30-b9ee-b46a81b7e608": {
+				"drawPortionPct": 100,
+				"backtrackPct": 0,
+				"rotateStartingPct": 25,
+				"reverse": false,
+				"drawBorder": false,
+				"type": "fineTuning",
+				"visible": true,
+				"name": "fine tuning",
+				"layerId": "8ee5625a-877f-4f60-b09e-e2d63e40f9dd",
+				"id": "eb1f9595-cb00-4a30-b9ee-b46a81b7e608"
+			},
+			"3142f55e-9d2a-4a15-bf8c-b3f2a48112ef": {
+				"drawPortionPct": 3.2,
+				"backtrackPct": 0,
+				"rotateStartingPct": 21.2,
+				"reverse": false,
+				"drawBorder": false,
+				"type": "fineTuning",
+				"visible": true,
+				"name": "fine tuning",
+				"layerId": "c3a10a70-6fcd-4b8c-bd19-9904e5be0d93",
+				"id": "3142f55e-9d2a-4a15-bf8c-b3f2a48112ef"
+			},
+			"1b78fa3d-2812-486e-ba24-7966f23f4dca": {
+				"transformMethod": "smear",
+				"numLoops": 4,
+				"growEnabled": true,
+				"growValue": 320,
+				"growMethod": "constant",
+				"growMathInput": "i+cos(i/2)",
+				"growMath": "i+cos(i/2)",
+				"spinEnabled": false,
+				"spinValue": 2,
+				"spinMethod": "constant",
+				"spinMathInput": "10*sin(i/4)",
+				"spinMath": "10*sin(i/4)",
+				"spinSwitchbacks": 0,
+				"type": "loop",
+				"visible": true,
+				"name": "loop",
+				"layerId": "f4730f19-2678-4650-b0a1-3002c655979c",
+				"id": "1b78fa3d-2812-486e-ba24-7966f23f4dca"
+			},
+			"7b1d98fa-05f3-4ed1-95b2-c47a52f34434": {
+				"drawPortionPct": 100,
+				"backtrackPct": 0,
+				"rotateStartingPct": 31.8,
+				"reverse": true,
+				"drawBorder": false,
+				"type": "fineTuning",
+				"visible": true,
+				"name": "fine tuning",
+				"layerId": "f4730f19-2678-4650-b0a1-3002c655979c",
+				"id": "7b1d98fa-05f3-4ed1-95b2-c47a52f34434"
+			},
+			"1e99eb45-06fa-46bb-9340-38cda676fff0": {
+				"width": 476,
+				"height": 476,
+				"maskMinimizeMoves": false,
+				"maskMachine": "circle",
+				"maskInvert": false,
+				"maskBorder": true,
+				"type": "mask",
+				"visible": true,
+				"name": "mask",
+				"aspectRatio": 1,
+				"x": 0,
+				"y": 0,
+				"rotation": 0,
+				"layerId": "9fcd68e0-8946-431c-9dd6-2c21ed81bdc1",
+				"id": "1e99eb45-06fa-46bb-9340-38cda676fff0"
+			}
+		}
+	},
+	"layers": {
+		"ids": [
+			"e607a0a4-1be5-48b3-b007-425f646b160f",
+			"9fcd68e0-8946-431c-9dd6-2c21ed81bdc1",
+			"c3a10a70-6fcd-4b8c-bd19-9904e5be0d93",
+			"5b031e09-2f76-4e13-a9ea-70ab69e284d5",
+			"9d4dfca4-b726-4471-8858-81da20be6db1",
+			"8ee5625a-877f-4f60-b09e-e2d63e40f9dd",
+			"f4730f19-2678-4650-b0a1-3002c655979c"
+		],
+		"entities": {
+			"e607a0a4-1be5-48b3-b007-425f646b160f": {
+				"circleLobes": 1,
+				"circleDirection": "clockwise",
+				"maintainAspectRatio": true,
+				"type": "circle",
+				"connectionMethod": "line",
+				"x": 0,
+				"y": 0,
+				"width": 489,
+				"height": 489,
+				"aspectRatio": 1,
+				"rotation": 0,
+				"visible": true,
+				"name": "circle",
+				"effectIds": [
+					"bc82517a-7fa2-47bb-a02a-cef46ef2b441"
+				],
+				"id": "e607a0a4-1be5-48b3-b007-425f646b160f"
+			},
+			"9fcd68e0-8946-431c-9dd6-2c21ed81bdc1": {
+				"fractalSpirographVelocity": 14,
+				"fractalSpirographResolution": 7,
+				"fractalSpirographNumCircles": 5,
+				"fractalSpirographRelativeSize": 3,
+				"fractalSpirographAlternateRotation": true,
+				"type": "fractalSpirograph",
+				"connectionMethod": "line",
+				"x": 0,
+				"y": 0,
+				"width": 516,
+				"height": 526,
+				"aspectRatio": 0.9809885931558935,
+				"rotation": 0,
+				"visible": true,
+				"name": "spirograph",
+				"effectIds": [
+					"51e69c46-6645-4ac5-b73c-034c705077b1",
+					"1e99eb45-06fa-46bb-9340-38cda676fff0",
+					"ade43ddf-1be5-47db-be9d-1e533272a151"
+				],
+				"id": "9fcd68e0-8946-431c-9dd6-2c21ed81bdc1"
+			},
+			"c3a10a70-6fcd-4b8c-bd19-9904e5be0d93": {
+				"circleLobes": 1,
+				"circleDirection": "clockwise",
+				"maintainAspectRatio": true,
+				"type": "circle",
+				"connectionMethod": "line",
+				"x": 0,
+				"y": 0,
+				"width": 218,
+				"height": 218,
+				"aspectRatio": 1,
+				"rotation": 0,
+				"visible": true,
+				"name": "connector",
+				"effectIds": [
+					"3142f55e-9d2a-4a15-bf8c-b3f2a48112ef"
+				],
+				"id": "c3a10a70-6fcd-4b8c-bd19-9904e5be0d93"
+			},
+			"5b031e09-2f76-4e13-a9ea-70ab69e284d5": {
+				"circleLobes": 1,
+				"circleDirection": "clockwise",
+				"maintainAspectRatio": true,
+				"type": "circle",
+				"connectionMethod": "line",
+				"x": 0,
+				"y": 0,
+				"width": 209,
+				"height": 209,
+				"aspectRatio": 1,
+				"rotation": 0,
+				"visible": true,
+				"name": "border 2",
+				"effectIds": [
+					"e1315051-f23e-4f16-a325-e51494474921"
+				],
+				"id": "5b031e09-2f76-4e13-a9ea-70ab69e284d5"
+			},
+			"9d4dfca4-b726-4471-8858-81da20be6db1": {
+				"fractalSpirographVelocity": 17,
+				"fractalSpirographResolution": 3,
+				"fractalSpirographNumCircles": 2,
+				"fractalSpirographRelativeSize": 2,
+				"fractalSpirographAlternateRotation": true,
+				"type": "fractalSpirograph",
+				"connectionMethod": "line",
+				"x": 0,
+				"y": 0,
+				"width": 191,
+				"height": 191,
+				"aspectRatio": 1,
+				"rotation": 0,
+				"visible": true,
+				"name": "spirograph 2",
+				"effectIds": [
+					"fc791cce-4dbf-45ba-89a6-8740426421d5"
+				],
+				"id": "9d4dfca4-b726-4471-8858-81da20be6db1"
+			},
+			"8ee5625a-877f-4f60-b09e-e2d63e40f9dd": {
+				"circleLobes": 1,
+				"circleDirection": "clockwise",
+				"maintainAspectRatio": true,
+				"type": "circle",
+				"connectionMethod": "line",
+				"x": 0,
+				"y": 0,
+				"width": 42,
+				"height": 42,
+				"aspectRatio": 1,
+				"rotation": 0,
+				"visible": true,
+				"name": "center spiral",
+				"effectIds": [
+					"eb1f9595-cb00-4a30-b9ee-b46a81b7e608"
+				],
+				"id": "8ee5625a-877f-4f60-b09e-e2d63e40f9dd"
+			},
+			"f4730f19-2678-4650-b0a1-3002c655979c": {
+				"circleLobes": 1,
+				"circleDirection": "clockwise",
+				"maintainAspectRatio": true,
+				"type": "circle",
+				"connectionMethod": "line",
+				"x": 0,
+				"y": 0,
+				"width": 3,
+				"height": 3,
+				"aspectRatio": 1,
+				"rotation": 0,
+				"visible": true,
+				"name": "Circle",
+				"effectIds": [
+					"1b78fa3d-2812-486e-ba24-7966f23f4dca",
+					"7b1d98fa-05f3-4ed1-95b2-c47a52f34434"
+				],
+				"id": "f4730f19-2678-4650-b0a1-3002c655979c"
+			}
+		}
+	},
+	"machine": {
+		"name": "[imported]",
+		"minimizeMoves": false,
+		"imported": true,
+		"type": "polar",
+		"minX": 0,
+		"maxX": 500,
+		"minY": 0,
+		"maxY": 500,
+		"maxRadius": 250,
+		"polarStartPoint": "perimeter",
+		"polarEndPoint": "center"
+	}
+}
